@@ -1,3 +1,7 @@
 # Estrutura de Dados
- Aqui estão alguns exercícios de estrutura de dados<br>
- Atividades de estrutura de dados da faculdade
+ Neste repositório constam alguns exercícios e exemplos de estrutura de dados feitos em aula
+ <br>
+ <br>
+ Universidade Veiga de Almeida <br>
+ Curso - Estrutura de Dados I <br>
+ Professor - Douglas Ericson
